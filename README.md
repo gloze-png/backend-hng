@@ -16,7 +16,7 @@ Ensure you have **Node.js** installed on your system.
 ### Setup Instructions
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/gloze-png/backend-hng.git
    cd your-repo
    ```
 
@@ -42,11 +42,7 @@ Ensure you have **Node.js** installed on your system.
 ### Example Response
 ```json
 {
-  "email": "your-email@example.com",
-  "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+  "email": "gloryopeoluwa4@gmail.com",
+  "current_datetime": "2025-01-29T12:54:23.948Z",
+  "github_url": "https://github.com/gloze-png/backend-hng"
 }
-```
-
-.
-
