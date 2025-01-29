@@ -39,10 +39,16 @@ Ensure you have **Node.js** installed on your system.
 ### Endpoint
 **GET /**
 
-### Example Response
+### Response
 ```json
 {
   "email": "gloryopeoluwa4@gmail.com",
   "current_datetime": "2025-01-29T12:54:23.948Z",
   "github_url": "https://github.com/gloze-png/backend-hng"
 }
+```
+##One backlink related to your chosen programming language/stack
+https://hng.tech/hire/python-developers
+https://hng.tech/hire/php-developers
+https://hng.tech/hire/java-developers
+https://hng.tech/hire/nodejs-developers
